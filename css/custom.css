@@ -1,0 +1,206 @@
+/* Add here all your CSS customizations */
+.orange-bc{
+    background:#fa8505 !important;
+}
+.blue-bc{
+    background:#07346b !important;
+}
+.bg-orange:hover{
+    color:#fa8505 !important;
+}
+
+.color-orange{
+     color:#fa8505 !important;
+}
+
+.color-blue{
+    color:#07346b !important;
+}
+
+.font-15px{
+    font-size: 15px;
+    text-align: justify;
+    color: #777777 !important;
+}
+
+.font-12px{
+    font-size: 13px !important;
+}
+.font-15px{
+    font-size: 15px !important;
+}
+
+.font-20px{
+    font-size: 24px !important;
+}
+
+.ro-d{
+    transform: rotate(90deg);
+}
+.header-body{
+    box-shadow: rgb(241 133 59) 0px 0px 3px 0px;
+}
+.list-icon li > i{
+    color:white;
+}
+
+.bg-hover-orange:hover{
+    color:#fa8505 !important;
+}
+
+.bg-blue-primary{
+    color:#07346b !important;
+}
+
+.btn-primary-orange{
+    border-color: #fa8505;
+    background:transparent;
+    color: #fa8505;
+}
+.btn-primary-orange:hover{
+    border-color: #fa8505;
+    color: #fff;
+    background:#fa8505;
+}
+
+.btn-primary-blue{
+    border-color: #01346b;
+    background:transparent;
+    color: #01346b;
+}
+.btn-primary-blue:hover{
+    border-color: #01346b;
+    color: #fff;
+    background:#01346b;
+}
+
+.btn-orange-primary{
+    border-color: #fa8505;
+    color: #ffffff;
+    background-color: #fa8505;
+}
+
+.btn-orange-primary:hover{
+    border-color: #01346b;
+    color: #ffffff;
+    background-color: #01346b;
+}
+
+.ml-r16{
+    margin-left: -16px;
+}
+
+
+.width-29{
+    width:29%;
+}
+.padding-zero{
+padding: 10px;
+}
+.page-header .breadcrumb > li + li:before{
+    color: #ffffff !important;
+}
+
+.btn-blue-primary{
+    border-color: #01346b;
+    color: #ffffff;
+    background-color: #01346b;
+}
+
+.btn-blue-primary:hover{
+    border-color: #fa8505;
+    color: #ffffff;
+    background-color: #fa8505;
+}
+.bge-two {
+    background: url(../img/banner.jpeg);
+    background-repeat: initial;
+    background-size: 100%;
+    background-position: bottom;
+}
+.orange-shadow{
+    box-shadow: 0px 0px 4px 0px #01346b;
+}
+
+.orange-shadow:hover{
+    box-shadow: 0px 0px 4px 0px #fa8505;
+    border:1px solid #fa8505;
+}
+
+.padding-set{
+    padding: 24px 0px 33px 0px;
+}
+.line-height-8{
+    font-size:1.1rem !important;
+}
+
+.line-height-9{
+    font-size:0.9rem !important;
+}
+
+@media only screen and (max-width: 768px) {
+.marginl-1{
+    margin-left:0px !important;
+} 
+.marginl-3{
+    margin-left:20px !important;
+}
+.fa-angle-right:before{
+    display:none;
+}
+.m-justify{
+    text-align:center;
+}
+.header-top{
+    display:none !important;
+}
+.font-set-80px{
+    font-size:20px !important;
+}
+.orange-shadow{
+    width:90% !important;
+}
+.ml-9px{
+    margin-left:9px !important;
+}
+}
+
+.marginl-1{
+    margin-left:20px;
+}
+
+.marginl-2{
+    margin-left:20px;
+}
+
+.font-set-80px{
+    color:#01346b !important;
+}
+.img-set{
+    width: 380px !important;
+    height: 231px !important;
+}
+
+.img-set-1{
+    width: 80px !important;
+    height:49px !important;
+}
+
+
+.j-center{
+    justify-content: center;
+}
+.p-strong{
+    text-decoration:underline;
+    color:black;
+    font-size:18px;
+    line-height:0 !important;
+    margin-bottom:10px!important;
+}
+.border-orange{
+    border: 1px solid #f1853b;
+}
+
+.border-orange:hover{
+    border: 1px solid #01346b;
+}
